@@ -1,0 +1,45 @@
+{
+  "image": {
+    "name": "201812524212",
+    "suffix": "jpg",
+    "fullName": "201812524212.jpg",
+    "oldName": "test",
+    "type": "image/jpg",
+    "path": "http://www.baidu.com",
+    "desc": "描述",
+    "tag": [
+      "祖国", "中华", "华夏"
+    ],
+    "size": 21542121,
+    "uploadTime": ""
+  },
+  "file": {
+    "name": "201812524212",
+    "suffix": "jpg",
+    "fullName": "201812524212.jpg",
+    "oldName": "test.webp",
+    "type": "image/jpg",
+    "path": "http://www.baidu.com",
+    "desc": "描述",
+    "tag": [
+      "祖国", "中华", "华夏"
+    ],
+    "size": 21542121,
+    "uploadTime": ""
+  },
+  "folder": {
+    "name": "201812524212",
+    "suffix": "jpg",
+    "fullName": "201812524212.jpg",
+    "oldName": "test.webp",
+    "type": "image/jpg",
+    "path": "http://www.baidu.com",
+    "desc": "描述",
+    "tag": [
+      "祖国", "中华", "华夏"
+    ],
+    "size": 21542121,
+    "createTime": "",
+    "updateTime": ""
+  }
+}
